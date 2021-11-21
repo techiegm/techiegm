@@ -80,6 +80,23 @@
   
 </div>
 
+## Other Development Tools
+<div align="center">
+  
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=00758F" alt="MySQL">
+  </a>
+  
+  <a href="https://phpunit.de/">
+    <img src="https://scule.org/assets/badges/phpunit.svg" alt="PHPUnit">
+  </a>
+  
+  <a href="https://www.vagrantup.com/">
+    <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant">
+  </a>
+  
+</div>
+
 ## Version Control
 <div align="center">
   
@@ -106,24 +123,6 @@
   
   <a href="https://ubuntu.com/">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  </a>
-  
-</div>
-
-## Database
-<div align="center">
-  
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=00758F" alt="MySQL">
-  </a>
-  
-</div>
-
-## Testing
-<div align="center">
-  
-  <a href="https://phpunit.de/">
-    <img src="https://scule.org/assets/badges/phpunit.svg" alt="PHPUnit">
   </a>
   
 </div>
