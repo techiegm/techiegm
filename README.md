@@ -20,8 +20,16 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
   
+  <a href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  </a>
+  
+  <a href="https://daringfireball.net/projects/markdown/">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   </a>
   
   <a href="https://www.python.org/">
@@ -90,13 +98,6 @@
   
 </div>
 
-## Deployment
-<div align="center">
-  
-  
-  
-</div>
-
 ## Editors
 <div align="center">
   
@@ -110,6 +111,19 @@
   
   <a href="https://www.jetbrains.com/phpstorm/">
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm">
+  </a>
+  
+</div>
+
+## Operating Systems
+<div align="center">
+  
+  <a href="https://www.microsoft.com/en-us/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
   
 </div>
