@@ -63,6 +63,23 @@
   
 </div>
 
+## Editors
+<div align="center">
+  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  </a>
+  
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  </a>
+  
+  <a href="https://www.jetbrains.com/phpstorm/">
+    <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm">
+  </a>
+  
+</div>
+
 ## Version Control
 <div align="center">
   
@@ -76,6 +93,19 @@
   
   <a href="https://gitlab.com/">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+  
+</div>
+
+## Operating Systems
+<div align="center">
+  
+  <a href="https://www.microsoft.com/en-us/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
   
 </div>
@@ -94,36 +124,6 @@
   
   <a href="https://phpunit.de/">
     <img src="https://scule.org/assets/badges/phpunit.svg" alt="PHPUnit">
-  </a>
-  
-</div>
-
-## Editors
-<div align="center">
-  
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  </a>
-  
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
-  </a>
-  
-  <a href="https://www.jetbrains.com/phpstorm/">
-    <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm">
-  </a>
-  
-</div>
-
-## Operating Systems
-<div align="center">
-  
-  <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  </a>
-  
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
   
 </div>
