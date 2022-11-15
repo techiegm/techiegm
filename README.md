@@ -88,7 +88,7 @@
   </a>
   
   <a href="https://phpunit.de/">
-    <img src="https://img.shields.io/badge/Teamcity-brightgreen?style=for-the-badge&logo=teamcity" alt="PHPUnit">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PHPUnit_Logo.svg/88px-PHPUnit_Logo.svg.png" alt="PHPUnit">
   </a>
   
   <a href="https://www.vagrantup.com/">
